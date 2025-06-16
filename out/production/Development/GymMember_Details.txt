@@ -1,0 +1,33 @@
+Regular Members:
+
+ID: 1
+Name: Anuma
+Location: Pkr
+Phone: 9800000000
+Email: anuma@
+Gender: Female
+Date of Birth: 2/2/2006
+Membership Start: 3/7/2021
+Attendance: 1
+Loyalty Points: 5.0
+Active Status: false
+Plan: basic
+Price: 6500.0
+
+Premium Members:
+ID: 2
+Name: Anuma
+Location: Pkr
+Phone: 9800000000
+Email: anuma@
+Gender: Female
+Date of Birth: 2/2/2006
+Membership Start: 3/7/2021
+Attendance: 1
+Loyalty Points: 5.0
+Active Status: true
+Personal Trainer: aaa
+The paid amount is: 0.0
+Is full payment made? false
+The remaining amount to be paid: 50000.0
+
