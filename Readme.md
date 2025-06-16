@@ -54,10 +54,10 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📄 License
+# License
 This project is licensed under the MIT License — feel free to use and modify.
 
-📞 Contact
+ # Contact
 Author: Anuma Rawal
 
 Email: rawalanuma@gmail.com
